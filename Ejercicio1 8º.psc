@@ -6,7 +6,7 @@ Algoritmo Ejercicio8
 	num1<- 0;
 	mes<- verdadero;
 	Descuento<- 0;
-	Escribir " ¿Cuanto has gastado?";
+	Escribir " Â¿Cuanto has gastado?";
 	leer num1;
 	Escribir " Di verdadero si lo compraste en octubre o falso si lo comprase otro mes";
 	Leer mes;
